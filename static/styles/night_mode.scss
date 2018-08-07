@@ -498,6 +498,10 @@ on a dark background, and don't change the dark labels dark either. */
         -webkit-filter: invert(100%);
         filter: invert(100%);
     }
+
+    .alert-word {
+        background-color: #468e37;
+    }
 }
 
 @-moz-document url-prefix() {
